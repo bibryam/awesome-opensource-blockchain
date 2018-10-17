@@ -50,6 +50,30 @@ Writing
   - [VOX CEPR](http://www.voxeu.org/) - Members of CEPR
 * [Economics Blog Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa) - A Google-based search service for aforementioned blogs.
 
+
+
+
+Blockchain Governance 101
+https://blog.goodaudience.com/blockchain-governance-101-eea5201d7992
+
+
+My Intentions for Blockchain Governance
+https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5
+
+
+Compliant peer-to-peer trading
+https://blog.0xproject.com/compliant-peer-to-peer-trading-4dab8e5c3162
+
+
+
+Earn tokens by posting  questions and answers! 
+https://delegatecall.com/
+
+
+
+
+ 
+
 ## Projects
 
 * [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
