@@ -39,6 +39,7 @@ Writing
   - [Economic Institutions](https://ideas.repec.org/top/top.inst.nbcites.html)
   - [Research Items](https://ideas.repec.org/top/top.item.nbcites.html)
   - [Software Items](http://logec.repec.org/scripts/itemstat.pf?type=redif-software)
+  - [Explore Blockchain](https://kandi.openweaver.com/explore/blockchain)
 
 ## Discussions
 
